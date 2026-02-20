@@ -11,15 +11,16 @@ In this repository i will published all the  hands-on labs for the **Artificial 
 All notebooks are self-contained, well-documented, and ready to run in **Google Colab**.
 
 ---
-
+```
 
 ## 📁 Repository Structure
 ann-labs/
-├── Lab02_Basic_NN _and_Back_prop.ipynb
-├── Lab03_MLP_Binary_Classification.ipynb
-├── Lab04_Hyperparameters_Heart_Disease.ipynb
+├── Lab_02_ANN_Ibadullah_Hayat.ipynb (Backprop and Math)
+├── Lab_03_ANN_Ibadullah_Hayat.ipynb (MLP_Binary_Classification)
+├── Lab_04_ANN_Ibadullah_Hayat.ipynb (Hyperparameters_Heart_Disease)
+├── Lab_05_ANN_Ibadullah_Hayat.ipynb (CNN_Implementation)
 └── README.md
-
+```
 ---
 
 >  **Datasets**:  
