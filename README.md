@@ -25,6 +25,7 @@ ann-labs/
 >  **Datasets**:  
 > - **Lab 03**: Synthetic 2D dataset (`make_classification`)  
 > - **Lab 04**: UCI Heart Disease dataset (loaded via public URL)
+> - **Lab 05**: CIFAR-10 from Keras Datasets
 
 ---
 
